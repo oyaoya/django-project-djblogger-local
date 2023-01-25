@@ -18,6 +18,12 @@ html, body {
     font-weight: 500;
 }
 
+.ft-text{
+  font-family: 'Merriweather';
+  line-height: 32px;
+  letter-spacing: 0.2px;
+}
+
 .fs-12 {
   font-size: 0.855rem !important;
 }
